@@ -209,4 +209,4 @@ Now, let’s try it and see how it works. (In this example I’ll only show the 
 ## Conclusion
 Congrats 🎉, you’ve learned how to create symmetric transitions, asymmetric transitions, and custom transitions. Also, we’ve explored SwiftUI transitions in depth, so now you can understand what the differences are between symmetric and asymmetric transitions. Keep experimenting 🚀 and create magical user experiences! ✨
 
-Here is the Medium article for this repo: https://medium.com/@ataberkturan/swiftui-mastering-custom-transitions-symmetric-and-asymmetric-544839a3b05a
+Here is the Medium article for this repo: https://ataberkturan.dev/swiftui-mastering-custom-transitions-symmetric-and-asymmetric-544839a3b05a
